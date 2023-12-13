@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096890039601",
+    "project_id": "challenge-register-screen",
+    "storage_bucket": "challenge-register-screen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096890039601:android:fc70b1ddb21db8312d4410",
+        "android_client_info": {
+          "package_name": "br.com.drsystems.challenge_register_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGqN6wGYxaF4tYWZzqF_0vYqHdJW876A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
