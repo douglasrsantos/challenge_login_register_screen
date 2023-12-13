@@ -1,16 +1,5 @@
-# challenge_register_screen
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# challenge_login_register_screen
+Desafio feito para a empresa Se7i no qual era necessário fazer uma tela de login e cadastro de usuário no qual o usuário deveria ter uma foto e nesta foto seria possível fazer edição. Utilizei o firebase para fazer  toda a parte de autenticação, cadastro, recuperação de senha como e gravação dos dados do usuário e imagem.
+Foi implementado também edição de imagens como inserção de filtros, corte, possibilidade de desenhos, entre outros edições.
+Versão do Flutter utilizada: 3.16.3
+Versão do Dart: 3.2.3
